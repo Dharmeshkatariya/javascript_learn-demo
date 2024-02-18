@@ -1,0 +1,19 @@
+div {
+
+    background-color: dodgerblue;
+    color: white;
+    border: 1px solid black;
+    height: 100px;
+    width: 100px;
+}
+
+.dark{
+
+    background-color: black;
+    color: white;
+}
+
+.light{
+    background-color: white;
+    color: black;
+}

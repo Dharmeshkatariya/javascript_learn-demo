@@ -1,0 +1,29 @@
+#btn {
+    height: 100px;
+    width: 100px;
+background-color: blue;
+border-radius: 10px ;
+color: white;
+
+}
+#div{
+    background-color: red;
+    height: 200px;
+
+}
+
+#newbtn{
+    background-color: rebeccapurple;
+    color: white;
+    font-size: 20px;
+    cursor: pointer;
+    border: 10px solid blue;
+}
+
+.newClass{
+    background-color: lightblue;
+    color: red;
+    font-size: 20px;
+    font-weight: 500;
+    
+}
